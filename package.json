@@ -1,7 +1,7 @@
 {
-    "name": "boostrap5-template-webpack",
+    "name": "webpack-starter-boilerplate",
     "version": "1.0.0",
-    "description": "Simple boilerplate using Bootstrap 5 (Webpack + Babel)",
+    "description": "Simple boilerplate using Webpack",
     "main": "index.js",
     "scripts": {
         "build": "webpack --mode production",
@@ -17,7 +17,6 @@
         "@babel/preset-env": "^7.21.5",
         "autoprefixer": "^10.4.14",
         "babel-loader": "^9.1.2",
-        "bootstrap": "^5.2.3",
         "css-loader": "^6.7.4",
         "dotenv-webpack": "^8.0.1",
         "eslint-webpack-plugin": "^4.0.1",
